@@ -1,0 +1,12 @@
+.color-input {
+	padding: 0;
+	margin: 0;
+	-webkit-appearance: none;
+	border: none;
+	background: transparent;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	overflow: hidden;
+	box-sizing: border-box;
+}
